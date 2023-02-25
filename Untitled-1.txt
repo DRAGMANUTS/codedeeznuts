@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>www.dragonmanuts.com</title>
+    </head>
+<body>
+    <h1>SAM APP</h1>
+    <p>See more <a href="">about footballers</a>in our website</p>
+    <img src="Pitch.png" width="500">
+    <p>List of popular footballers</p>
+    <ol>
+        <li>Cr7</li>
+        <img src="Ronaldo.png" width="300">
+        <li>Messi</li>
+        <img src="Messi-World-Cup.png" width="300">
+        <li>Mbappe</li>
+        <img src="Mbappe.png" width="300">
+    </ol>
+</body>
+</html>
